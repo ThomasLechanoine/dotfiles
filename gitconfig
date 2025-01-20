@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lechanoine.thomas@gmail.com
+	name = Thomas Lechanoine
